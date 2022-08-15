@@ -42,3 +42,7 @@ error = 30.605255 - max = 10.000000 - top 3:
   b'writev' = 0.987554
   b'creat' = 0.969955
 ```
+
+## License
+
+This project is made with ♥  by [@evilsocket](https://twitter.com/evilsocket) and it is released under the GPL3 license.
