@@ -21,7 +21,7 @@ Keep the sampling going while you trigger normal behaviour in the target process
 We'll now train a model to detect anomalies:
 
 ```sh
-./main.py --train --data activity.csv --model model.h5
+./main.py --data activity.csv --model model.h5 --train
 ```
 
 The autoencoder saved to `model.h5` can now be used for anomaly detection with the error threshold print at the end of the training.
