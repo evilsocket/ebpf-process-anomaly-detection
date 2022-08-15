@@ -1,0 +1,2 @@
+bcc==0.12.0
+tensorflow-cpu==2.9.1
