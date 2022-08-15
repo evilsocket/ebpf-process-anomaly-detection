@@ -1,4 +1,4 @@
-Process activity anomaly detection using eBPF system call tracing and unsupervised learning Autoencoders.
+Process behaviour anomaly detection using eBPF system call tracing and unsupervised learning Autoencoders.
 
 ## Installation
 
