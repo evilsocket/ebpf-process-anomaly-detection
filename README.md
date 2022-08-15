@@ -1,5 +1,7 @@
 Process activity anomaly detection using eBPF system call tracing and unsupervised learning Autoencoders.
 
+[Read this blog post for a complete description of the project](https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/).
+
 ## Installation
 
 ```sh
